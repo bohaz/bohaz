@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bohaz
-- ![Ricardo Martìnez](https://github.com/bohaz/bohaz/assets/127757182/56ff7340-b47a-49c0-92d6-e8901292be03)
+👋 <h1>Hi there, i am Ricardo Martínes</h1>
+  ![Ricardo Martìnez](https://github.com/bohaz/bohaz/assets/127757182/56ff7340-b47a-49c0-92d6-e8901292be03)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
