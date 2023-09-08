@@ -1,4 +1,4 @@
-<h1>Hi there! 👋</h1> 
+<div align="center"> <h1>Hi there! 👋</h1> </div>
   
   ![RicardoMartinez](https://github.com/bohaz/bohaz/assets/127757182/b4f4c26b-7d40-47d8-8a8f-e4220dcdaa89)
 
