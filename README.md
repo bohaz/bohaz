@@ -20,6 +20,14 @@
   
 </div>
 
+<div align="center">
+  
+# 🌐 Socials:
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardomartínez∴/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ricardomartinezvet) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ricardo29115571)
+
+</div>
+
 <br>
 
 <div align="center">
