@@ -11,7 +11,15 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,jest,sass,ruby,git,bootstrap,github,webpack,figma)](https://skillicons.dev)
 
 </div>
-- 💻 I’m currently available for hire. 
+
+<br>
+
+<div align="center">
+
+## 💻 I’m currently available for hire.
+  
+</div>
+ 
 - 📫 How to reach me ...
 - <a href="https://www.linkedin.com/in/ricardo-mart%C3%ADnez-%E2%88%B4-a6810398/"><img align="left" alt="Ricardo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://github.com/bohaz"><img align="left" alt="Ricardo's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
