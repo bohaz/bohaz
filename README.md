@@ -8,7 +8,7 @@
 <div align="center">
   
 # 📚 My stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,jest,sass,ruby,git,bootstrap,github,webpack,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,jest,sass,ruby,git,bootstrap,github,webpack,figma,postgresql,tailwind)](https://skillicons.dev)
 
 </div>
 
