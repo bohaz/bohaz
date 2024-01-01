@@ -4,7 +4,7 @@
 
 
 
-### 🌱 I’m currently learning remotely how to code real-world projects by doing pair programming with people from all around the world through Microverse, a remote software development school.
+### Versatile Full Stack Developer and Veterinarian | Proficient in JavaScript, React, and Ruby on Rails | Passionate about Remote Work and Technology Solutions
 
 <div align="center">
   
