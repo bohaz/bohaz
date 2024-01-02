@@ -52,3 +52,5 @@
 [<img width="400" src="https://github-readme-stats.vercel.app/api?username=bohaz&show_icons=true"/>](https://github.com/bohaz/)
   
 </div>
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/boaz/count.svg" /></p>
