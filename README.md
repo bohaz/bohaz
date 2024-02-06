@@ -9,7 +9,7 @@
 <div align="center">
   
 # 📚 My stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,jest,sass,ruby,git,bootstrap,github,webpack,figma,postgresql,tailwind,materialui,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,jest,sass,ruby,git,bootstrap,github,webpack,figma,postgresql,tailwind,materialui,stackoverflow,postman)](https://skillicons.dev)
 
 </div>
 
