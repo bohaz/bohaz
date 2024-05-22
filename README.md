@@ -41,7 +41,7 @@
 
 <div align="center">
 
-## ⭐️ Check my portfolio [Here]([ricardosportfolio.vercel.app](https://ricardosportfolio.vercel.app/))
+## ⭐️ Check my Portfolio [Here](https://ricardosportfolio.vercel.app/)
   
 </div>
 
