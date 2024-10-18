@@ -4,7 +4,7 @@
 
 
 
-### Full Stack Developer and Veterinarian | JavaScript | React | Ruby on Rails | Go | Passionate about Remote Work and Technology Solutions
+### Full Stack Developer and Veterinarian | JavaScript | React | Ruby on Rails | Go | Passionate about Remote Work and Technology Solutions [Portfolio](https://ricardosportfolio.vercel.app/)
 
 <div align="center">
   
