@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79797&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ricardo+Martínez" alt="Typing SVG" />
 </div>
 
-## Full Stack Developer & Veterinarian | JavaScript | React | Ruby on Rails | Go | Passionate about Remote Work & Technology
+## Full Stack Developer | JavaScript | React | Ruby on Rails | Go | Passionate about Remote Work & Technology
 
 ---
 
