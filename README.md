@@ -10,7 +10,7 @@
 
 ---
 
-As a full stack developer with a background in veterinary medicine, I bring a unique approach to solving problems. I specialize in building scalable web solutions and crafting seamless user experiences. My stack includes JavaScript, React, Ruby on Rails, and Go. Check out my [Portfolio](https://ricardosportfolio.vercel.app/).
+As a full stack developer with a background in veterinary medicine, I bring a unique approach to solving problems. I specialize in building scalable web solutions and crafting seamless user experiences. My stack includes JavaScript, React, Ruby on Rails, and Go. Check out my [Portfolio](https://my-portfolio-beta-three-47.vercel.app/).
 
 ---
 
@@ -42,7 +42,7 @@ I'm always open to collaborations! Drop me a message at 📧 [ricardomartinezvet
 
 ## ⭐️ Check out my Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://ricardosportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-beta-three-47.vercel.app/)
 
 ---
 
