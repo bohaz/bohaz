@@ -14,7 +14,7 @@ As a full stack developer with a background in veterinary medicine, I bring a un
 
 ---
 
-# 📚 My Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Teck Stack</b>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,jest,sass,ruby,rails,git,bootstrap,github,webpack,figma,postgresql,tailwind,materialui,stackoverflow,postman,docker,golang" alt="Skills" />
@@ -45,9 +45,9 @@ I'm always open to collaborations! Drop me a message at 📧 [ricardomartinezvet
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-beta-three-47.vercel.app/)
 
 ---
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
-  
+
 [<img width="400" src="https://github-readme-stats.vercel.app/api?username=bohaz&show_icons=true"/>](https://github.com/bohaz/)
 
 </div>
