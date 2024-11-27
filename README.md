@@ -46,13 +46,21 @@ I'm always open to collaborations! Drop me a message at 📧 [ricardomartinezvet
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+
 <div align="center">
 
-[<img width="400" src="https://github-readme-stats.vercel.app/api?username=bohaz&show_icons=true"/>](https://github.com/bohaz/)
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bohaz&theme=dark" alt="anii693" /></p>
+<br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohaz&show_icons=true&theme=dark&locale=en&layout=compact" alt="bohaz" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bohaz&show_icons=true&theme=dark&locale=en" alt="bohaz" /></p>
+
+</div>
 <!--profile visit count-->
-<div align="center">
+<br><br><br><br><br><br><br><br><br><br>
   
 [![](https://visitcount.itsvg.in/api?id=bohaz&icon=3&color=6)](https://visitcount.itsvg.in)
   
-</div>
+
