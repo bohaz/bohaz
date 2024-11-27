@@ -6,11 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79797&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ricardo+Martínez" alt="Typing SVG" />
 </div>
 
-## Full Stack Developer | JavaScript | React | Ruby on Rails | Go | Passionate about Remote Work & Technology
+## JavaScript | React | Ruby on Rails | Go | Passionate about Remote Work & Technology
 
 ---
 
-As a full stack developer with a background in veterinary medicine, I bring a unique approach to solving problems. I specialize in building scalable web solutions and crafting seamless user experiences. My stack includes JavaScript, React, Ruby on Rails, and Go. Check out my [Portfolio](https://my-portfolio-beta-three-47.vercel.app/).
+Full Stack Developer with experience in front-end and back-end development. Skilled in delivering clean, scalable code
+and ecient solutions, with a proven track record of effective collaboration in remote settings. Adaptable to new
+technologies, with strong communication skills and a commitment to contributing to team success in dynamic
+environments
+. Check out my [Portfolio](https://my-portfolio-beta-three-47.vercel.app/).
 
 ---
 
