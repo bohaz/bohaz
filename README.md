@@ -50,8 +50,9 @@ I'm always open to collaborations! Drop me a message at 📧 [ricardomartinezvet
 
 [<img width="400" src="https://github-readme-stats.vercel.app/api?username=bohaz&show_icons=true"/>](https://github.com/bohaz/)
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=bohaz&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
-
-<p align="center">   
-   <img align="center" src="https://profile-counter.glitch.me/boaz/count.svg" />
-</p>
