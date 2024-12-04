@@ -14,7 +14,7 @@ Full Stack Developer with experience in front-end and back-end development. Skil
 and ecient solutions, with a proven track record of effective collaboration in remote settings. Adaptable to new
 technologies, with strong communication skills and a commitment to contributing to team success in dynamic
 environments
-. Check out my [Portfolio](https://my-portfolio-beta-three-47.vercel.app/).
+. Check out my [Portfolio](https://my-portfolio-pi-lime-33.vercel.app/).
 
 ---
 
@@ -46,7 +46,7 @@ I'm always open to collaborations! Drop me a message at 📧 [ricardomartinezvet
 
 ## ⭐️ Check out my Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-beta-three-47.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-pi-lime-33.vercel.app/)
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
