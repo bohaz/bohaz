@@ -21,7 +21,7 @@ environments
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Teck Stack</b>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,express,mongo,redux,jest,sass,ruby,rails,git,bootstrap,github,webpack,figma,postgresql,tailwind,materialui,stackoverflow,postman,docker,golang" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongo,redux,jest,sass,ruby,rails,git,bootstrap,npm,vite,vitest,github,webpack,figma,postgresql,tailwind,materialui,stackoverflow,postman,docker,golang,aws" alt="Skills" />
 </div>
 
 ---
