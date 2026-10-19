@@ -1,65 +1,34 @@
-<div align="center">
-  
-![RicardoMartinez](https://github.com/bohaz/bohaz/assets/127757182/a5776b85-6638-4452-9edf-c430350833ec)
+<img src="banner.png" alt="Ricardo Martínez, Full Stack Developer. Software for real businesses, built by a veterinarian turned engineer." width="100%" />
 
-# <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79797&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ricardo+Martínez" alt="Typing SVG" />
-</div>
+Full Stack Developer working with **React, TypeScript, Node.js and PostgreSQL/Supabase**. I build software that real businesses use every day, including the app that runs the dog grooming salon I co-own in Chile.
 
-## JavaScript | React | Ruby on Rails | Go | Passionate about Remote Work & Technology
+Before code I was a veterinarian and farm manager, so I'm used to sitting with the people who will use the product, learning how they work and shipping something that fits.
 
----
+Based in Chile (UTC−3) · **Open to remote roles**
 
-Full Stack Developer with experience in front-end and back-end development. Skilled in delivering clean, scalable code
-and ecient solutions, with a proven track record of effective collaboration in remote settings. Adaptable to new
-technologies, with strong communication skills and a commitment to contributing to team success in dynamic
-environments
-. Check out my [Portfolio](https://my-portfolio-pi-lime-33.vercel.app/).
+## Featured work
 
----
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **[Vigía SMS](https://github.com/bohaz/sms-pilot)** | Safety management system for airline operators, structured on ICAO Annex 19. Occurrence reports, risk matrix, corrective actions and a tamper-evident audit log (SHA-256 hash chain). | Next.js 15 · TypeScript · Zustand · Vitest | [Demo](https://vigiasmspilot.vercel.app) · [Code](https://github.com/bohaz/sms-pilot) |
+| **[Pet Fashion Gestión](https://github.com/bohaz/petfashion-app-2)** | The app my business runs on: appointments, dog directory, pricing rules and finances. Two people use it at once from their phones, synced in real time. | Next.js 15 · TypeScript · Supabase (RLS, Realtime) · PWA | Private app · [Code](https://github.com/bohaz/petfashion-app-2) |
+| **[VetGest](https://github.com/bohaz/vetgest)** | Multi-tenant SaaS for veterinary clinics, in pilot. Patients, inventory and sales in two currencies, with an offline queue that syncs in order when the signal returns. | React · Vite · Supabase (RLS) · PGlite | [Demo](https://vetgest-theta.vercel.app) · [Code](https://github.com/bohaz/vetgest) |
+| **[Arpegios](https://github.com/bohaz/llanero-tonos)** | Tool for llanero harp players: repertoire by key, a microphone tuner and a key transposer. | React 19 · Vite · Web Audio API · Vitest | [Demo](https://llanero-tonos.vercel.app) · [Code](https://github.com/bohaz/llanero-tonos) |
+| **[Portfolio](https://github.com/bohaz/ricardo_portfolio)** | Bilingual site (English and Spanish) with my apps, client websites and case studies. | Astro · Tailwind CSS | [Site](https://ricardomartinez.vercel.app) · [Code](https://github.com/bohaz/ricardo_portfolio) |
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Teck Stack</b>
+## How I work
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongo,redux,jest,sass,ruby,rails,git,bootstrap,npm,vite,vitest,github,webpack,figma,postgresql,tailwind,materialui,stackoverflow,postman,docker,golang,aws" alt="Skills" />
-</div>
+- Tests on the business logic, plus ESLint, Prettier and CI on every pull request.
+- Small pull requests with a preview deploy, reviewed before merging.
+- A README in every repo that explains what the project does and how to run it.
 
----
+## Stack
 
-## 💻 Available for hire!
+**Frontend:** React, Next.js, TypeScript, React Native, Tailwind CSS, Framer Motion<br>
+**Backend:** Node.js, Express, Ruby on Rails<br>
+**Data and infrastructure:** PostgreSQL, Supabase, Firebase, Vercel, Railway, AWS Amplify<br>
+**Testing and tooling:** Vitest, Testing Library, RSpec, GitHub Actions
 
-I'm open to full-time, freelance, and remote opportunities. Let's build something amazing together! Feel free to reach out via my socials.
+## Contact
 
----
-
-# 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardomartínez∴/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ricardomartinezvet) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ricardo29115571)
-
----
-
-# 📫 How to reach me
-
-I'm always open to collaborations! Drop me a message at 📧 [ricardomartinezvet@gmail.com](mailto:ricardomartinezvet@gmail.com)
-
----
-
-## ⭐️ Check out my Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-pi-lime-33.vercel.app/)
-
----
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bohaz&show_icons=true&theme=dark&locale=en" alt="bohaz" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohaz&show_icons=true&theme=dark&locale=en&layout=compact" alt="bohaz" /></p>
-
-
-<!--profile visit count-->
-<br><br><br>
-
-[![](https://visitcount.itsvg.in/api?id=bohaz&icon=3&color=6)](https://visitcount.itsvg.in) 
-
-
+[Portfolio](https://ricardomartinez.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ricardo-mart%C3%ADnez-%E2%88%B4-a6810398) · [ricardomartinezvet@gmail.com](mailto:ricardomartinezvet@gmail.com)
